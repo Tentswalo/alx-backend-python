@@ -1,18 +1,6 @@
 0x00. Python - Variable Annotations
 ===================================
 
-PythonBack-end
-
--   By Emmanuel Turlay, Staff Software Engineer at Cruise
-
-### Concepts
-
-*For this project, we expect you to look at this concept:*
-
--   [Advanced Python](https://alx-intranet.hbtn.io/concepts/554)
-
-![](https://i.redd.it/y9y25tefi5401.png)
-
 Resources
 ---------
 
